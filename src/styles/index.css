@@ -1,0 +1,6 @@
+.Card {
+  background-color: var(--color-secondary-500);
+
+  width: 10rem;
+  height: 10rem;
+}
